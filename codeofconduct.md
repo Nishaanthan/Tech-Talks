@@ -1,9 +1,9 @@
 
 # Code of Conduct
 
-All participants of The Tech Talks Community are expected to abide by our Code of Conduct, both online and during in-person events that are hosted and/or associated with DEV.
-Our Pledge
+All participants of The Tech Talks Community are expected to abide by our Code of Conduct, both online and during in-person events that are hosted and/or associated with TechTalks.
 
+Our Pledge
 In the interest of fostering an open and welcoming environment, we as moderators of Tech Talks pledge to make participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 Our Standards
 
